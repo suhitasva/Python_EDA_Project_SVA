@@ -204,3 +204,11 @@
 <!-- wp:list -->
 <ul><li>Evaluation of data from other gaming database platforms to compare findings.</li><li>To evaluate whether a game’s rating influences its price and sales.</li><li>Further research for rated games, to see the number of times consumers click on game sales links on database platforms (if available) to demonstrate an interest in the game.</li></ul>
 <!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>References:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Weisholtz, D., 2020. <em>How classic board games are bringing families closer during the pandemic</em>. [online] TODAY.com. Available at: &lt;https://www.today.com/popculture/board-games-enjoy-surge-popularity-during-pandemic-t202377> [Accessed 14 June 2022].</li><li>Boardgamegeek.com. n.d. <em>BoardGameGeek</em>. [online] Available at: &lt;https://boardgamegeek.com/> [Accessed 14 June 2022].</li><li>Kaggle.com. 2020. <em>20,000 Boardgames Dataset</em>. [online] Available at: &lt;https://www.kaggle.com/datasets/extralime/20000-boardgames-dataset> [Accessed 15 June 2022].</li><li>The Boardgame Detective. 2019. <em>Guide to BoardGameGeek Weightings and Ratings, and How to Find Good Games</em>. [online] Available at: &lt;https://tbgd.blog/2019/01/25/guide-to-boardgamegeek/> [Accessed 15 June 2022].</li></ul>
+<!-- /wp:list -->  
